@@ -1,9 +1,3 @@
-/*
- * Decompiled with CFR 0_118.
- * 
- * Could not load the following classes:
- *  PluginReference.RainbowUtils
- */
 package Shield;
 
 import PluginReference.ChatColor;
