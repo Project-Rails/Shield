@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0_118.
- */
 package Shield;
 
 import Shield.ZoneInfo;
