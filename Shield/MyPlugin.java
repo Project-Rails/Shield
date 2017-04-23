@@ -1,11 +1,3 @@
-/*
- * Decompiled with CFR 0_118.
- * 
- * Could not load the following classes:
- *  PluginReference.MC_MiscGriefType
- *  PluginReference.PluginInfo
- *  PluginReference.RainbowUtils
- */
 package Shield;
 
 import PluginReference.ChatColor;
